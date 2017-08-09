@@ -1,0 +1,14 @@
+{
+  "name": "The blog of Another UI Guy",
+  "version": "0.1.0",
+  "description": "My name is Dale Sande (anotheruiguy) and this is a general topic tech blog.",
+  "author": "Dale Sande <dale.sande@gmail.com>",
+  "license": "copyright 2017",
+  "title": "Dale Sande (anotheruiguy) blog of things",
+  "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-104370847-1"
+        }
+    }
+}
